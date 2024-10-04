@@ -21,4 +21,4 @@ Our business aims to harness real-world shark attack data to strategically targe
 * Luis Quinaz
 * Ailla Souza
 * Biruk
-* Scott Macalister (edited) 
+* Scott Macalister 
