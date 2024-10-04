@@ -17,7 +17,8 @@ This project is part of a coding quest challenge where our team worked on cleani
 Our business aims to harness real-world shark attack data to strategically target and optimise the sales of our shark-themed merchandise, including T-shirts, hoodies, and mystery boxes. By capitalising on people’s inherent curiosity and fascination with sharks, we will drive sales and increase brand awareness.
 
 # Team Members
-Luis Quinaz
-Ailla Souza
-Biruk
-Scott Macalister (edited) 
+
+* Luis Quinaz
+* Ailla Souza
+* Biruk
+* Scott Macalister (edited) 
